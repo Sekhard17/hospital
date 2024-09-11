@@ -4,7 +4,7 @@
 
 ## Descripción
 
-El **Hospital Río Bueno - Dashboard Médico** es una aplicación desarrollada para facilitar la gestión de pacientes, historiales médicos, recetas, consultas, y más. Este proyecto está diseñado para mejorar la administración de hospitales o centros médicos, proporcionando un panel de control interactivo y fácil de usar tanto para médicos como para otros encargados de la gestión médica.
+El **Hospital Río Bueno - Dashboard Médico** es una aplicación desarrollada para facilitar la gestión de pacientes, entre otros...
 
 ## Características Principales
 
