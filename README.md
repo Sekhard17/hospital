@@ -1,40 +1,46 @@
-<<<<<<< HEAD
-# hospital
-=======
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Hospital Río Bueno - Dashboard Médico
 
-## Getting Started
+![Hospital Río Bueno](https://via.placeholder.com/800x200?text=Hospital+R%C3%ADo+Bueno)
 
-First, run the development server:
+## Descripción
+
+El **Hospital Río Bueno - Dashboard Médico** es una aplicación desarrollada para facilitar la gestión de pacientes, historiales médicos, recetas, consultas, y más. Este proyecto está diseñado para mejorar la administración de hospitales o centros médicos, proporcionando un panel de control interactivo y fácil de usar tanto para médicos como para otros encargados de la gestión médica.
+
+## Características Principales
+
+- **Gestión de Pacientes**: Visualiza, busca y gestiona la lista de pacientes registrados.
+- **Historial Médico**: Redirige a una sección donde se pueden ver los historiales médicos de los pacientes.
+- **Nuevo Registro**: Añade nuevos registros de pacientes fácilmente a través del panel.
+- **Consultas Médicas**: Administra las consultas médicas programadas y realizadas.
+- **Recetas**: Crea y administra recetas médicas de forma sencilla.
+- **Agenda**: Visualiza una agenda con las citas médicas programadas.
+- **Estadísticas**: Gráficos y reportes con datos estadísticos del hospital.
+- **Configuración**: Ajusta las preferencias y configuraciones del sistema.
+- **Omnicell - Bodega de Remedios**: Accede a la gestión de medicamentos.
+
+## Capturas de Pantalla
+
+![Dashboard Principal](https://via.placeholder.com/800x400?text=Captura+de+Pantalla+del+Dashboard)
+
+## Tecnologías Utilizadas
+
+- **Next.js**: Framework de React para el desarrollo de la aplicación web.
+- **Tailwind CSS**: Framework de CSS para un diseño responsivo y moderno.
+- **Lucide-react**: Iconos SVG para la interfaz gráfica.
+- **TypeScript**: Tipado estático para un código más seguro y robusto.
+- **GitHub**: Control de versiones y colaboración en desarrollo.
+
+## Instalación
+
+Sigue los pasos a continuación para clonar y ejecutar el proyecto localmente.
+
+### Prerrequisitos
+
+Debes tener instalado [Node.js](https://nodejs.org/) y [Git](https://git-scm.com/) en tu máquina.
+
+### Clonación del Repositorio
+
+Clona el repositorio en tu máquina local usando Git:
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
->>>>>>> a3e4f45 (Initial commit from Create Next App)
+git clone https://github.com/Sekhard17/hospital.git
