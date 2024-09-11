@@ -127,7 +127,7 @@ export default function Component() {
 
         <div className="fixed bottom-4 right-4 space-x-2">
           {currentScreen !== 'main' && (  /* El botón Volver solo se muestra fuera del dashboard principal */
-            <Button variant="solid" onClick={() => setCurrentScreen('main')} className="bg-blue-600 text-white">
+            <Button variant="outline" onClick={() => setCurrentScreen('main')} className="bg-blue-600 text-white">
               <ArrowLeft className="mr-2 h-4 w-4" /> Volver al Dashboard
             </Button>
           )}
